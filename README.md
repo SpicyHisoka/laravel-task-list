@@ -15,7 +15,7 @@ You can create, edit, delete, and mark tasks as completed. The UI is responsive 
 
 ## Tech Stack
 
-* **Backend:** PHP 8.x, Laravel 10
+* **Backend:** PHP 8.x, Laravel 12
 * **Frontend:** Blade, Tailwind CSS, Alpine.js
 * **Database:** MySQL (or SQLite)
 
