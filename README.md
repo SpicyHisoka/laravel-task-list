@@ -1,6 +1,6 @@
 # Laravel Task List App 📝
 
-A simple Task Management application built with **Laravel 10**, **Blade**, and **Tailwind CSS**.
+A simple Task Management application built with **Laravel 12**, **Blade**, and **Tailwind CSS**.
 
 You can create, edit, delete, and mark tasks as completed. The UI is responsive and includes flash messages for feedback.
 
